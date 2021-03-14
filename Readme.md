@@ -1,7 +1,7 @@
-## Olá pessoal! Sejam bem vindo :earth_americas:
+## Olá pessoal! Sejam bem vindos :earth_americas:
 
-:department_store: Atualmente estou buscando uma oportunidade como Dev Junior.
-:heart: Eu sou apaixonado por tecnologia!
+:department_store: Atualmente estou buscando uma oportunidade como Dev Junior.</br>
+:heart: Eu sou apaixonado por tecnologia!</br>
 :speech_balloon: Qualquer dúvida, entre em contato <a href="https://github.com/pfegueredo/pfegueredo/issues">aqui..</a>
 <br />
 :link: <a href="https://www.linkedin.com/in/paulo-fegueredo-44a90036">Minhas redes sociais..</a>
