@@ -1,6 +1,6 @@
 ## Olá pessoal! Sejam bem vindos :earth_americas:
 
-:department_store: Atualmente estou buscando uma oportunidade como Dev Junior.</br>
+:department_store: Atuando atualmente como Analista de Desenvolvimento Junior com Spring Boot Java.</br>
 :heart: Eu sou apaixonado por tecnologia!</br>
 :speech_balloon: Qualquer dúvida, entre em contato <a href="https://github.com/pfegueredo/pfegueredo/issues">aqui..</a>
 <br />
